@@ -26,7 +26,7 @@ ru_address: Конвертация БД ФИАС в SQL дамп
     Usage: ru_address [OPTIONS] SOURCE_PATH OUTPUT_PATH
 
       Подготавливает БД ФИАС для использования с SQL. XSD файлы и XML выгрузку
-      можно получить на сайте ФНС https://fias.nalog.ru/Updates.aspx
+      можно получить на сайте ФНС https://fias.nalog.ru/Updates
 
     Options:
       --join TEXT         Опция позволяет объединить весь дамп в один файл (по умолчанию отдельный файл для каждой таблицы)
